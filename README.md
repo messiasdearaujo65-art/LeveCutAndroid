@@ -1,0 +1,2 @@
+# LeveCutAndroid
+Capcut otimizado!!
